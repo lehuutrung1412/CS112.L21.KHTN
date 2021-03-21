@@ -5,10 +5,9 @@ a = list(map(int,input().split()))[:n]
 
 def findMaxSub(a, n):
     best = -maxsize - 1
-    start = end = startTemp = endTemp = sum = 0
+    start = end = startTemp = sum = 0
     for i in range(0,n):
         if (a[i] < sum + a[i]):
-            endTemp = i
             sum += a[i]
         else:
             startTemp = i
@@ -16,7 +15,7 @@ def findMaxSub(a, n):
         if (sum > best):
             best = sum
             start = startTemp
-            end = endTemp
+            end = i
     return start + 1, end + 1, best
 
 start, end, maxSub = findMaxSub(a,n)
