@@ -7,7 +7,7 @@ def findMaxSub(a, n):
     best = -maxsize - 1
     start = end = startTemp = sum = 0
     for i in range(0,n):
-        if (a[i] < sum + a[i]):
+        if (a[i] <= sum + a[i]):
             sum += a[i]
         else:
             startTemp = i
