@@ -22,3 +22,7 @@ Như vậy số lần chạy cho cả 2 vòng for là: n + n/2 + n/4 + ... = 2n 
 ## 3. Bài 3: Độ phức tạp của hàm đệ quy sau là bao nhiêu?
 
 <img src="Bai3.png" alt="Bài 3" width="400">
+
+## 4. Bài 4: Độ phức tạp xấu nhất khi thực hiện đoạn chương trình?
+
+<img src="Bai4.png" alt="Bài 4" width="400">
