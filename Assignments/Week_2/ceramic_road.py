@@ -40,33 +40,3 @@ else:
     print(numSolution)
     for solution in result:
         print(*solution)
-
-
-# for i in range(1, numPart):
-    #     if set(a[0:lenPart]) != set(a[lenPart*i:lenPart*(i+1)]):
-    #         team1 = a[0:lenPart]
-    #         team2 = a[lenPart*i:lenPart*(i+1)]
-    # for i in range(0, numPart):
-    #     if set(a[lenPart*i:lenPart*(i+1)]) == set(team1):
-    #         demP += 1
-    #     elif set(a[lenPart*i:lenPart*(i+1)]) == set(team2):
-    #         demQ += 1
-    #     else:
-    #         demQ = 0
-    #         break
-
-# if (j+1)*i+i <= n:
-#     if set(a[0:i]) != set(a[(j+1)*i:(j+1)*i+i]) != set(a[j*i:j*i+i]):
-#         demQ = 0
-#         break
-
-
-# if set(a[0:lenPart]) == set(a[lenPart*i:lenPart*(i+1)]):
-            
-#             demP += 1
-#         else:
-#             if lenPart*(i+2) <= n:
-#                 if set(a[0:lenPart]) != set(a[lenPart*(i+1):lenPart*(i+2)]) != set(a[lenPart*i:lenPart*(i+1)]):
-#                     demQ = 0
-#                     break
-#             demQ += 1
