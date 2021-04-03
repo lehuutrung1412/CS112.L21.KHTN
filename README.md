@@ -10,5 +10,8 @@
 ## 2. Assignments
 
 - [x] **1. [Week 1 : Tảo Biển và BOT](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_1)**
+- [ ] **1. [Week 2 : H-Index, Khoá số và Con đường gốm sứ](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_2)**
 
 ## 3. Seminar
+
+- [ ] **1. Slide**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
