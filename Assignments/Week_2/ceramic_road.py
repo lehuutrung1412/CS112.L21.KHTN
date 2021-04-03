@@ -26,8 +26,9 @@ for numPart in numParts:
             elif not team2:
                 team2 = a[lenPart*i:lenPart*(i+1)]
             demQ += 1
-    if demP < demQ:
-        demP, demQ = demQ, demP
+    # This is a bug for testcase 4
+    # if demP < demQ:
+    #     demP, demQ = demQ, demP
     if demQ != 0:
         result.append([lenPart,demP,demQ])
 
