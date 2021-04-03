@@ -15,14 +15,12 @@ for numPart in numParts:
     demP = 0
     demQ = 0
     lenPart = int(n/numPart)
-    team1 = []
     team2 = []
     for i in range(0, numPart):
         if sorted(a[0:lenPart]) == sorted(a[lenPart*i:lenPart*(i+1)]):
-            if not team1: team1 = a[0:lenPart]
             demP += 1
         else:
-            if team2 and sorted(a[lenPart*i:lenPart*(i+1)]) != sorted(team2):
+            if (team2 and sorted(a[lenPart*i:lenPart*(i+1)]) != sorted(team2)):
                 demQ = 0
                 break
             elif not team2:
