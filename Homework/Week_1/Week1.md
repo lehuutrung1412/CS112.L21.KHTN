@@ -14,10 +14,11 @@
 * Ở vòng for thứ nhất, với i = n/2 thì vòng for thứ 2 sẽ chạy n/2 lần
 * Ở vòng for thứ nhất, với i = n/4 thì vòng for thứ 2 sẽ chạy n/4 lần
 * ...
+* Ở vòng for thứ nhất, với i = 1 thì vòng for thứ 2 sẽ chạy 1 lần
 
-Như vậy số lần chạy cho cả 2 vòng for là: n + n/2 + n/4 + ... = 2n (tổng của cấp số nhân lùi vô hạn)
+Như vậy số lần chạy cho cả 2 vòng for là: n + n/2 + n/4 + ... + 1
 
-=> Độ phức tạp hàm fun(): O(2n) = O(n)
+=> Độ phức tạp hàm fun(): O(n + n/2 + n/4 + ... + 1) = O(n)
 
 ## 3. Bài 3: Độ phức tạp của hàm đệ quy sau là bao nhiêu?
 
