@@ -10,8 +10,13 @@
 ## 2. Assignments
 
 - [x] **1. [Week 1 : Tảo Biển và BOT](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_1)**
-- [ ] **1. [Week 2 : H-Index, Khoá số và Con đường gốm sứ](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_2)**
+- [x] **2. [Week 2 : H-Index, Khoá số và Con đường gốm sứ](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_2)**
 
 ## 3. Seminar
 
 - [ ] **1. Slide**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
+
+## 4. Homework
+
+- [ ] **1. [Week 1 : Phân tích độ phức tạp thuật toán](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_1)**
+- [ ] **2. [Week 2 : Divide and Conquer](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_2)**
