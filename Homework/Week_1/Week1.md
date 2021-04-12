@@ -24,6 +24,22 @@ Như vậy số lần chạy cho cả 2 vòng for là: n + n/2 + n/4 + ... + 1
 
 <img src="Bai3.png" alt="Bài 3" width="400">
 
+Ta có, 
+T(n) = T(sqrt(n)) + C
+
+T(n) = T(n^(1/2^k)) + kC
+
+Mặt khác,
+
+n^(1/2^k) = 2
+
+=> 2^k = log(n)
+
+=> k = log(log(n))
+
+Do đó, T(n) = O(loglog(n))
+
+
 ## 4. Bài 4: Độ phức tạp xấu nhất khi thực hiện đoạn chương trình?
 
 <img src="Bai4.png" alt="Bài 4" width="400">
