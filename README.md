@@ -18,5 +18,5 @@
 
 ## 4. Homework
 
-- [ ] **1. [Week 1 : Phân tích độ phức tạp thuật toán](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_1)**
-- [ ] **2. [Week 2 : Divide and Conquer](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_2)**
+- [x] **1. [Week 1 : Phân tích độ phức tạp thuật toán](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_1)**
+- [x] **2. [Week 2 : Divide and Conquer](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_2)**
