@@ -14,7 +14,8 @@
 
 ## 3. Seminar
 
-- [ ] **1. Slide**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
+- [ ] **1. Slide PDF**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
+- [ ] **2. Slide PPTX**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pptx)
 
 ## 4. Homework
 
