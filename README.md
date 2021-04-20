@@ -23,4 +23,4 @@
 
 - [x] **1. [Week 1 : Phân tích độ phức tạp thuật toán](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_1)**
 - [x] **2. [Week 2 : Divide and Conquer](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_2)**
-- [ ] **3. [Week 3 : Greedy Algorithm]()**
+- [x] **3. [Week 3 : Greedy Algorithm](https://drive.google.com/drive/u/1/folders/1IT9hTV7PeHPE7GcwvOms5vi_gS2W1dON)**
