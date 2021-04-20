@@ -12,10 +12,11 @@
 - [x] **1. [Week 1 : Tảo Biển và BOT](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_1)**
 - [x] **2. [Week 2 : H-Index, Khoá số và Con đường gốm sứ](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_2)**
 
-## 3. Seminar
+## 3. Seminar: Brute Force
 
-- [ ] **1. Slide PDF**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
-- [ ] **2. Slide PPTX**: [Brute Force](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pptx)
+- [ ] **1. Slide**: [PDF](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
+- [ ] **2. Slide**: [PPTX](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pptx)
+- [x] **3. Code Examples**: [Colab](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/Brute_Force_Examples.ipynb)
 
 ## 4. Homework
 
