@@ -11,6 +11,7 @@
 
 - [x] **1. [Week 1 : Tảo Biển và BOT](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_1)**
 - [x] **2. [Week 2 : H-Index, Khoá số và Con đường gốm sứ](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_2)**
+- [x] **3. [Week 3 : Đổi mới, Số nguyên mới và Hệ thống cấp nước](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_3)**
 
 ## 3. Seminar: Brute Force
 
@@ -25,3 +26,4 @@
 - [x] **2. [Week 2 : Divide and Conquer](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_2)**
 - [x] **3. [Week 3 : Greedy Approach](https://drive.google.com/drive/u/1/folders/1IT9hTV7PeHPE7GcwvOms5vi_gS2W1dON)**
 - [x] **4. [Week 4 : Brute Force Approach](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_3)**
+- [ ] **5. [Week 5 : Backtracking](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_4)**
