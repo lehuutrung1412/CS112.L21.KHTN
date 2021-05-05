@@ -26,4 +26,4 @@
 - [x] **2. [Week 2 : Divide and Conquer](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_2)**
 - [x] **3. [Week 3 : Greedy Approach](https://drive.google.com/drive/u/1/folders/1IT9hTV7PeHPE7GcwvOms5vi_gS2W1dON)**
 - [x] **4. [Week 4 : Brute Force Approach](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_3)**
-- [ ] **5. [Week 5 : Backtracking](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_4)**
+- [x] **5. [Week 5 : Backtracking](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_4)**
