@@ -8,7 +8,7 @@ def findBestSum(arr, sum, memo = {}):
     min_element = None
     for num in arr:
         remain = sum - num
-        sum_remain = findBestSum(arr, remain)
+        sum_remain = findBestSum(arr, remain, memo)
         if not sum_remain is None:
             element = [num]
             element += sum_remain
