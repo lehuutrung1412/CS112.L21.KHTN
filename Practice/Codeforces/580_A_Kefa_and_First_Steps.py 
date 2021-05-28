@@ -1,0 +1,13 @@
+import io, os
+input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
+n = int(input())
+a = list(map(int, input().split()))
+max_len = 1
+len_ = 1
+for i in range(1, n):
+    if a[i] >= a[i-1]:
+        len_ += 1
+        max_len = max(max_len, len_)
+    else:
+        len_ = 1
+print(max_len)
