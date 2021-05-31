@@ -30,3 +30,4 @@
 - [x] **5. [Week 5 : Backtracking](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_4)**
 - [x] **6. [Week 6 : Branch and Bound](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_5)**
 - [x] **7. [Week 7 : Dynamic Programming](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_6)**
+- [x] **8. [Week 8 : Geometric Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_7)**
