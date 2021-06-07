@@ -12,7 +12,7 @@
 - [x] **1. [Week 1 : Tảo Biển và BOT](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_1)**
 - [x] **2. [Week 2 : H-Index, Khoá số và Con đường gốm sứ](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_2)**
 - [x] **3. [Week 3 : Đổi mới, Số nguyên mới và Hệ thống cấp nước](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_3)**
-- [ ] **4. [Week 4 : Sửa hàng rào, Phân số, Khởi nghiệp](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_4)**
+- [x] **4. [Week 4 : Sửa hàng rào, Phân số, Khởi nghiệp](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Assignments/Week_4)**
 
 ## 3. Seminar: Brute Force
 
@@ -31,3 +31,4 @@
 - [x] **6. [Week 6 : Branch and Bound](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_5)**
 - [x] **7. [Week 7 : Dynamic Programming](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_6)**
 - [x] **8. [Week 8 : Geometric Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_7)**
+- [x] **9. [Week 9 : Graph Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_8)**
