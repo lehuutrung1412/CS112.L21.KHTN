@@ -32,3 +32,4 @@
 - [x] **7. [Week 7 : Dynamic Programming](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_6)**
 - [x] **8. [Week 8 : Geometric Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_7)**
 - [x] **9. [Week 9 : Graph Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_8)**
+- [ ] **10. [Week 10 : Practice Algorithm Analysis and Design](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_9)**
