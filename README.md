@@ -16,10 +16,10 @@
 
 ## 3. Seminar: Brute Force
 
-- [x] **1. Slide**: [PDF](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf)
-- [x] **2. Slide**: [PPTX](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pptx)
-- [x] **3. Code Examples**: [Colab](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/Brute_Force_Examples.ipynb)
-- [x] **4. Exercises**: [Homework](https://www.hackerrank.com/brute-force-homework-l21-khtn-n09)
+- [x] **1. Slide**: [PDF](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf), [PPTX](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pptx)
+- [x] **2. Code Examples**: [Colab](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/Brute_Force_Examples.ipynb)
+- [ ] **3. Exercises**: [Homework](https://www.hackerrank.com/brute-force-homework-l21-khtn-n09), [Review](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/)
+- [ ] **4. Report**: [Here](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/)
 
 ## 4. Homework
 
@@ -33,3 +33,4 @@
 - [x] **8. [Week 8 : Geometric Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_7)**
 - [x] **9. [Week 9 : Graph Algorithm](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_8)**
 - [x] **10. [Week 10 : Practice Algorithm Analysis and Design](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_9)**
+- [x] **11. [Week 11 : Practice Algorithm Analysis and Design 2](https://github.com/lehuutrung1412/CS112.L21.KHTN/tree/main/Homework/Week_10)**
