@@ -18,8 +18,8 @@
 
 - [x] **1. Slide**: [PDF](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pdf), [PPTX](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/CS112.L21.KHTN.N09_BruteForce.pptx)
 - [x] **2. Code Examples**: [Colab](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/Brute_Force_Examples.ipynb)
-- [ ] **3. Exercises**: [Homework](https://www.hackerrank.com/brute-force-homework-l21-khtn-n09), [Review](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/)
-- [ ] **4. Report**: [Here](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/)
+- [x] **3. Exercises**: [Homework](https://www.hackerrank.com/brute-force-homework-l21-khtn-n09), [Review](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/review.pdf)
+- [x] **4. Report**: [Seminar](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/report_seminar.pdf), [Teamwork](https://github.com/lehuutrung1412/CS112.L21.KHTN/blob/main/Seminar/Report_teamwork.pdf)
 
 ## 4. Homework
 
