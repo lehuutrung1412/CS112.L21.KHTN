@@ -43,3 +43,5 @@ Do đó, T(n) = O(loglog(n))
 ## 4. Bài 4: Độ phức tạp xấu nhất khi thực hiện đoạn chương trình?
 
 <img src="Bai4.png" alt="Bài 4" width="400">
+
+Tại mỗi lần độ quy chia thành 2 nhánh con nên độ phức tạp là O(2^n)
