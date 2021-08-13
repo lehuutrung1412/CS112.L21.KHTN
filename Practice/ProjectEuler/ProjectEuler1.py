@@ -1,5 +1,5 @@
 t = int(input().strip())
-for a0 in range(t):
+for _ in range(t):
     n = int(input().strip())
     k_of_3 = (n-1) // 3
     k_of_5 = (n-1) // 5
