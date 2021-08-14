@@ -1,6 +1,6 @@
 t = int(input().strip())
 for _ in range(t):
-    n = int(input().strip())
+    n = int(input())
     k_of_3 = (n-1) // 3
     k_of_5 = (n-1) // 5
     k_of_15 = (n-1) // 15
