@@ -1,4 +1,4 @@
-t = int(input().strip())
+t = int(input())
 for _ in range(t):
     n = int(input())
     k_of_3 = (n-1) // 3
