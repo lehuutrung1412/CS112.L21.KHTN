@@ -1,3 +1,3 @@
 t = int(input().strip())
-for a0 in range(t):
+for _ in range(t):
     n = int(input().strip())
